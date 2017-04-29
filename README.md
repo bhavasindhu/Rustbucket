@@ -14,7 +14,7 @@ This brings up the question of enemies. I've come up with a number of bosses, bu
 
 The story line still needs some work. Rustbucket is in a junkyard, meets with minimal resistance until he meets Cleatus and Rufus, who initially fight him, only to befriend him for surviving a minute or so. They install some basic tech, and the abilities upgrade, difficulty increases, new enemies, new boss. 
 
-The larger story has him meeting and AI in the factory of his production. Not sure how best to deal with that. 
+The larger story has him meeting an AI in the factory of his production. Not sure how best to deal with that. 
 
 The tech additions reflect themes, which change each level. 
 
