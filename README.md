@@ -16,7 +16,7 @@ The story line still needs some work. Rustbucket is in a junkyard, meets with mi
 
 The larger story has him meeting an AI in the factory of his production. Not sure how best to deal with that. 
 
-The tech additions reflect themes, which change each level. 
+The tech additions reflect boss themes, which change each level. 
 
 something along the lines of ten levels is desireable. 
 
